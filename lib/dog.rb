@@ -1,15 +1,15 @@
 class Dog
     def bark
-        puts "woof"
+        puts "Woof!"
     end
     def sit
-        puts "sit"
+        puts "The Dog is sitting"
     end
 end
 
 class Person
     def talk
-        puts "Hello World"
+        puts "Hello World!"
     end
     def walk
         puts "The Person is walking"
